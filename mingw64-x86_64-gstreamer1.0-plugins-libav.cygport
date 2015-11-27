@@ -2,7 +2,7 @@ CROSS_HOST="x86_64-w64-mingw32"
 inherit cross gst-plugins
 
 NAME="mingw64-x86_64-gstreamer1.0-plugins-libav"
-VERSION=1.4.5
+VERSION=1.6.1
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="GStreamer 1.0 LibAV plugins for Win64 toolchain"
